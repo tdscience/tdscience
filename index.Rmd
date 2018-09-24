@@ -29,23 +29,17 @@ lapply(c('xfun'), function(pkg) {
 
 Welcome to Transport Data Science.
 
-# Preface {-}
+# Structure of the book {-}
 
-Hi there, this is my great book.
-
-## Why read this book {-}
-
-It is very important...
-
-## Structure of the book {-}
-
-Chapters \@ref(introduction) introduces a new topic, and ...
+The book's structure corresponds to the module structure for the course Transport Data Science in the Institute for Transport Studies (ITS) at the University of Leeds.
+Chapter \@ref(introduction) introduces the book and some reading material that will be useful during the course.
 
 ## Software information and conventions {-}
 
-I used the **knitr**\index{knitr} package [@xie2015] and the **bookdown**\index{bookdown} package [@R-bookdown] to compile my book. My R session information is shown below:
+The **knitr**\index{knitr} [@xie2015] and the **bookdown**\index{bookdown} [@R-bookdown] packages are used to compile the book.
+The majority of the code chunks are in R and Python.
 
-```{r}
+```{r, echo=FALSE, eval=FALSE}
 xfun::session_info()
 ```
 

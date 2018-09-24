@@ -1,0 +1,11 @@
+\cleardoublepage 
+
+# (APPENDIX) Appendix {-}
+
+# Coursework evaluation
+
+You will be evaluated based on submission of a portfolio of work produced as part of the module.
+You will be awared extra marks if the work is reproducible, a vital component of scientific work.
+
+We recommend using a template for a reproducible report, such as this one which was created for the module: https://github.com/ITSLeeds/reproducibleCoursework
+
