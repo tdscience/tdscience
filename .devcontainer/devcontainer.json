@@ -1,0 +1,14 @@
+{
+	"name": "Transport Data Science Book Container",
+	"image": "ghcr.io/geocompx/pythonr:latest",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"reditorsupport.r",
+				"quarto.quarto",
+				"ms-python.python",
+				"ms-toolsai.jupyter"
+			]
+		}
+	}
+}

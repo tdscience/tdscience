@@ -1,0 +1,20 @@
+# Quarto build artifacts
+/.quarto/
+/docs/
+/_freeze/
+*_files/
+site_libs/
+*cache*
+
+# R / Python environment files
+.Rhistory
+.Rproj.user
+.ipynb_checkpoints/
+.pixi/
+__pycache__/
+
+# User specific subfolders
+tartu26/
+temp_deploy_key/
+
+**/*.quarto_ipynb

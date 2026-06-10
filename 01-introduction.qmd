@@ -1,0 +1,15 @@
+# Introduction
+
+This is the introduction to **Transport Data Science**.
+
+Transport Data Science is an exciting, interdisciplinary field that leverages computational methods, geographic information systems (GIS), and data science techniques to solve transport challenges.
+
+## Why Transport Data Science?
+
+The transport sector generates vast amounts of data, including:
+- GPS tracks and mobile phone records
+- Smart card and ticketing system data
+- Traffic sensors and cameras
+- OpenStreetMap and public transit schedules (GTFS)
+
+Data science tools help transport planners and researchers make sense of this data to design more efficient, sustainable, and equitable transport systems.

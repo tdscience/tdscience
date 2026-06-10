@@ -1,0 +1,28 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Transport Data Science"
+  author: "Robin Lovelace"
+  description: "A book on Transport Data Science."
+  site-url: https://tdscience.github.io
+  repo-url: https://github.com/tdscience/tdscience
+  repo-branch: main
+  repo-actions: [edit]
+  
+  chapters:
+    - index.qmd
+    - 01-introduction.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: superhero
+    css: styles.css
+    toc: true
+    number-sections: true

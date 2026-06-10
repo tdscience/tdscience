@@ -1,0 +1,50 @@
+# Welcome {.unnumbered}
+
+Welcome to the **Transport Data Science** book. This is an open-source, future-proof resource dedicated to the application of data science methods to transport planning, engineering, and policy.
+
+::: {.callout-note}
+This book is in its early stages of development. We welcome contributions, feedback, and collaborations!
+:::
+
+## Key Resources & Workshops
+
+Below are key resources and training courses developed under the **tdscience** project:
+
+<div class="project-grid">
+  <a href="https://tdscience.github.io/tartu26/" class="project-card">
+    <div class="card-gradient-bar" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);"></div>
+    <div class="card-content">
+      <h3>Mobile Tartu Workshop</h3>
+      <p>A 2-day workshop focused on Origin-Destination (OD) data and route networks at Mobile Tartu 2026.</p>
+      <span class="card-link-text">Learn more &rarr;</span>
+    </div>
+  </a>
+
+  <a href="https://tdscience.github.io/course/" class="project-card">
+    <div class="card-gradient-bar" style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);"></div>
+    <div class="card-content">
+      <h3>Reproducible Data Science</h3>
+      <p>A comprehensive course on essential tools and skills for building reproducible data science pipelines.</p>
+      <span class="card-link-text">View Course &rarr;</span>
+    </div>
+  </a>
+
+  <a href="https://tdscience.github.io/dstp/" class="project-card">
+    <div class="card-gradient-bar" style="background: linear-gradient(135deg, #f857a6 0%, #ff5858 100%);"></div>
+    <div class="card-content">
+      <h3>Data Science for Transport Planning</h3>
+      <p>An educational program exploring the role of data science in modern, sustainable transport planning.</p>
+      <span class="card-link-text">Explore DSTP &rarr;</span>
+    </div>
+  </a>
+</div>
+
+## About the Book
+
+Transport Data Science (TDS) is an emerging field at the intersection of transport planning, geography, and data science. This book aims to provide:
+
+- **Reproducible workflows** using Python and R.
+- **Practical examples** covering spatial data analysis, routing, and network analysis.
+- **Future-proof concepts** built on modern tools like Quarto, Pixi, and GitHub Actions.
+
+Stay tuned as we expand the chapters!
