@@ -10,6 +10,9 @@ book:
   repo-url: https://github.com/tdscience/tdscience
   repo-branch: main
   repo-actions: [edit]
+  page-footer:
+    left: "Last updated: {{< var last-updated >}} UTC"
+    right: "[![Build Status](https://github.com/tdscience/tdscience/actions/workflows/publish.yml/badge.svg)](https://github.com/tdscience/tdscience/actions/workflows/publish.yml)"
   
   chapters:
     - index.qmd

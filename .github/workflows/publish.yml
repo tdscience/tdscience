@@ -20,6 +20,10 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Generate Last Updated Variable
+        run: |
+          echo "last-updated: \"$(date +'%Y-%m-%d %H:%M')\"" > _variables.yml
+
       - name: Render Quarto Book
         run: |
           quarto render
