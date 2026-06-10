@@ -10,7 +10,7 @@ This book is in its early stages of development. We welcome contributions, feedb
 
 Below are key resources and training courses developed under the **tdscience** project:
 
-::: {=html}
+```{=html}
 <div class="project-grid">
   <a href="https://tdscience.github.io/tartu26/" class="project-card">
     <div class="card-gradient-bar" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);"></div>
@@ -39,7 +39,7 @@ Below are key resources and training courses developed under the **tdscience** p
     </div>
   </a>
 </div>
-:::
+```
 
 ## About the Book
 
